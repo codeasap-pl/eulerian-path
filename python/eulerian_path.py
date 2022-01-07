@@ -1,6 +1,3 @@
-# MIT
-
-# https://pt.wikipedia.org/wiki/Pierre_Fleury
 # https://en.wikipedia.org/wiki/Eulerian_path#Fleury's_algorithm
 # https://encyclopediaofmath.org/wiki/Euler_tour
 
