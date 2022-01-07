@@ -7,7 +7,7 @@ Educational code.
 ## Implementations:
 
 + Python
-+ PostgreSQL
++ PostgreSQL (PL/pgSQL)
 
 ## Visualization
 
