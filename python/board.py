@@ -127,6 +127,6 @@ if __name__ == "__main__":
     parser.add_argument("-r", "--rows", type=int, default=8)
 
     args = parser.parse_args()
-    board = Board(args.rows, args.cols, **args.__dict__)
-    board.set_field(0, 10)
+    board = Board(args.rows, args.cols)
+    board.set_field(1, 1)
     board.redraw()
